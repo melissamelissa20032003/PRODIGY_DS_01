@@ -1,6 +1,8 @@
-# PRODIGY_DS_01
-First internship task 
-*Associate a local folder with an existing github repository*
-git init -b main
-git add .
-git commit -m "First commit"
+# PRODIGY_DS_01 
+First internship task </br>
+*Associate a local folder with an existing github repository*</br>
+'''
+git init -b main </br>
+git add .</br>
+git commit -m "First commit" </br>
+'''
